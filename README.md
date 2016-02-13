@@ -8,9 +8,9 @@ The new implementation of core scheduling logic.
                               |        |
                               |        v
                               +--> buildables ---> pending ---> left
-                                        ^              |
-                                        |              |
-                                        +---(rarely)---+
+                                       ^              |
+                                       |              |
+                                       +---(rarely)---+
 
 It provides distributed capabilities for Jenkins CI.
 
