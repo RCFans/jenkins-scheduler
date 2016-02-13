@@ -1,4 +1,4 @@
-[![][ButlerImage]]
+![][ButlerImage]
 
 # About
 The new implementation of core scheduling logic.
